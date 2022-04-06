@@ -1,3 +1,3 @@
-# stakr.space-validator-identity
+# stakr.space - validator-identity
 
-https://github.com/Distributed-Validators-Synctems/Self-Identity/stakr-space.md
+[Here is the latest information regarding actuals network participated](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/stakr-space.md)
