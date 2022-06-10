@@ -16,6 +16,7 @@ Soon:<br />
 [Passage](https://passage3d.com) - Approved Mainnet Validator<br />
 [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> 
 
+
 Inactive mainnet validators due to stake discrimination: </br>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
@@ -95,7 +96,8 @@ Activities:</a>
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
     Akash - [guides, essays](https://github.com/papanomad535/blog/blob/main/akash-deployment/deployments-and-persistent-storage.md)</br>
-    Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)
+    Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)</br>
+    DVS multisig web ui signer - [link](https://cosmos-multisig-6gcn2a7ce-dvs-app.vercel.app/)
 
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)
