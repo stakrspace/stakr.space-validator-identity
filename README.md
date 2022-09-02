@@ -54,7 +54,7 @@ Ki - preparing to run self-funded validator<br />
 Medibloc - preparing to run self-funded validator<br />
 Rizon - preparing to run self-funded validator<br /> 
 --->
-48+ finished or developing test-nets: <br />
+50+ finished or developing test-nets: <br />
   [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />
