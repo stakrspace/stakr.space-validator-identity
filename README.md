@@ -18,12 +18,12 @@ Current mainnets: <br />
  [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
-Nois
-Ollo
-Source protocol
-Haqq
-Bundlr
-Empowerchain
+[Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd)<br/>
+[Ollo](https://explorer.kjnodes.com/ollo/staking/ollovaloper135vurxmr3hrrnqwfj9cdh3te5nym4a76332rv9)<br/>
+[Source protocol](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus)<br/>
+[Haqq](https://haqq.explorers.guru/validator/haqqvaloper1vwphqq8lcutu5zqfqqfktahhnvyyqpk3q6x765)<br/>
+Bundlr<br/>
+[Empowerchain](https://empower.explorers.guru/validator/empowervaloper1mltc0s3asan3rpfg7jdvfmwpmvtmwvqj7svvk6)<br/>
 
 [Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
 [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
@@ -120,7 +120,7 @@ Rizon - preparing to run self-funded validator<br />
 <a name="activity">
 Activities:</a>
 <br />
-  
+   Validators.network - [School mentor](https://validators.network)<br/>
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
