@@ -120,7 +120,8 @@ Rizon - preparing to run self-funded validator<br />
 <a name="activity">
 Activities:</a>
 <br />
-   Validators.network - [School mentor](https://validators.network)<br/>
+
+Validators.network - [School mentor](https://validators.network)<br/>
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
