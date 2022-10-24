@@ -6,7 +6,7 @@ Current mainnets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Everscale](https://ever.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
-[Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
+
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
 [Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
@@ -14,21 +14,24 @@ Current mainnets: <br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
 <!--- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
-[Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
  [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
+Neutron</br>
+[Mande](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1acepfkj6qgfj6d5d57nwd2wtxx5l67uj8rwq44)</br>
+[Okp4](https://okp4.explorers.guru/validator/okp4valoper1m88t450gg3jrc87xh4u00sasdjls7fdl7tlrde)</br>
 [Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd)<br/>
 [Ollo](https://explorer.kjnodes.com/ollo/staking/ollovaloper135vurxmr3hrrnqwfj9cdh3te5nym4a76332rv9)<br/>
 [Source protocol](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus)<br/>
 [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1vwphqq8lcutu5zqfqqfktahhnvyyqpk3q6x765)<br/>
 Bundlr<br/>
 [Empowerchain](https://empower.explorers.guru/validator/empowervaloper1mltc0s3asan3rpfg7jdvfmwpmvtmwvqj7svvk6)<br/>
+[Cardchain](https://explorer.kjnodes.com/cardchain/staking/ccvaloper178g3555nt2ks6t7fqrzzt566yrzqfxexcjkjzu)</br>
 
 [Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
 [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
 Mundis - testnet selected validator<br/>
-[Obol](http://65.109.25.49:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s) - testnet selected validator team<br/>
+[Obol](https://app.poap.xyz/token/5771874) - testnet selected validator team<br/>
 Quicksilver - testnet rewarded validator<br/>
 Gitopia - testnet selected validator<br/>
 [Sei](https://sei.explorers.guru/validator/seivaloper1ljat0ed6wufa7xmg8uuhu5rjyktn9f6qqxsu9v) - Seinami testnet selected validator<br/>
@@ -51,7 +54,8 @@ mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where n
 Baremetal servers located in EU(NL,DE,FI,RU) and US.
 
 
-Inactive mainnet validators due to stake discrimination: </br>
+Inactive mainnet validators: </br>
+[Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
 [Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain self-funded validator</br> 
