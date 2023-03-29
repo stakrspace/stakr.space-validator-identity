@@ -13,7 +13,6 @@ Current mainnets: <br />
 [Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Genesis Mainnet Validator<br />
-<!--[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Genesis Mainnet Validator<br /> -->
 [Nois](https://nois.explorers.guru/validator/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) - Genesis Mainnet Validator<br />
 [Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
 [Uptick](https://uptick.explorers.guru/validator/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - Genesis Mainnet Validator<br />
