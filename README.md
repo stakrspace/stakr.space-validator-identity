@@ -16,6 +16,7 @@ Current mainnets: <br />
 [Nois](https://nois.explorers.guru/validator/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) - Genesis Mainnet Validator<br />
 [Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
 [Uptick](https://uptick.explorers.guru/validator/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - Genesis Mainnet Validator<br />
+[Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - Genesis Mainnet Validator<br />
 
 Actual testnets:<br/>
 [Humans.ai](https://linktr.ee/humansdotai) - genesis testnet validator</br>
