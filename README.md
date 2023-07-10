@@ -17,15 +17,16 @@ Current mainnets: <br />
 [Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
 [Uptick](https://uptick.explorers.guru/validator/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - Genesis Mainnet Validator<br />
 [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - Genesis Mainnet Validator<br />
+[Empower](https://empowerchain.exploreme.pro/validator/empowervaloper1ju6852rl229h0va0na0rdwes4g5jwnql700tgg) - Genesis Mainnet Validator<br />
+[Humans AI](https://humansai.exploreme.pro/validator/humanvaloper1udzzjmtx8elfdnd0m9qn9v2j7hfxkq283q3aaa) - Genesis Mainnet Validator<br />
+
 
 Actual testnets:<br/>
-[Humans.ai](https://linktr.ee/humansdotai) - genesis testnet validator</br>
 [Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
 [Namada](https://namada.explorers.guru/validators)</br>
 [Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
 [Ojo](https://ojo.exploreme.pro/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
 [Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
-[Nolus](https://nolus.exploreme.pro/validator/nolusvaloper10uzey0tuyumlmduds70fqm59rj66x65ef9w7pu)</br>
 
 
 Servers and architecture, technology stack:
@@ -45,6 +46,7 @@ Inactive mainnet validators: </br>
 <img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/evmos-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/obol-team-captain.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/beaconchain-prater-validator.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet1.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet2.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sourcechain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/nois-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/empowerchain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/deweb-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sei-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/haqq-testnet.png" width="200" height="150" /></br>
 [Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
 [Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - genesis testnet validator</br>
+[Nolus](https://nolus.exploreme.pro/validator/nolusvaloper10uzey0tuyumlmduds70fqm59rj66x65ef9w7pu)</br>
 [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - testnet selected validator<br/>
 [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - genesis testnet validator</br>
 [Mande](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1acepfkj6qgfj6d5d57nwd2wtxx5l67uj8rwq44) - testnet selected validator</br>
