@@ -24,7 +24,7 @@ Actual testnets:<br/>
 [Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
 [Namada](https://namada.explorers.guru/validators) - genesis testnet validator</br>
 [Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
-[Ojo](https://ojo.exploreme.pro/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
+[Ojo](https://ojo.explorers.guru/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
 [Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
 
 
