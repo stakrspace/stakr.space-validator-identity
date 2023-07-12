@@ -10,7 +10,7 @@ Current mainnets: <br />
 [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Genesis Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Genesis Mainnet and Community Validator<br />
 [Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
-[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
+[Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Genesis Mainnet Validator<br />
 [Nois](https://nois.explorers.guru/validator/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) - Genesis Mainnet Validator<br />
 [Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
