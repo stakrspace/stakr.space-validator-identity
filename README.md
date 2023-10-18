@@ -19,7 +19,7 @@ Current mainnets: <br />
 [Empower](https://empowerchain.exploreme.pro/validator/empowervaloper1ju6852rl229h0va0na0rdwes4g5jwnql700tgg) - Genesis Mainnet Validator<br />
 [Humans AI](https://humansai.exploreme.pro/validator/humanvaloper1udzzjmtx8elfdnd0m9qn9v2j7hfxkq283q3aaa) - Genesis Mainnet Validator<br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
-
+[Source](https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus) - Genesis Mainnet Validator<br />
 
 Actual testnets:<br/>
 [Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
@@ -31,7 +31,7 @@ Actual testnets:<br/>
 
 Servers and architecture, technology stack:
 mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
-Baremetal servers located in EU(NL,DE,FI,RU) and US.
+Baremetal servers located in EU(NL,DE,FI,PL,FR) and US.
 
 
 Inactive mainnet validators: </br>
