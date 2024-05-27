@@ -22,12 +22,20 @@ Current mainnets: <br />
 [Source](https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus) - Genesis Mainnet Validator<br />
 
 Actual testnets:<br/>
-[Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
-[Namada](https://namada.explorers.guru/validators) - genesis testnet validator</br>
-[Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
-[Ojo](https://ojo.explorers.guru/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
-[Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper18wz8t62mc53vffhew4qfjhpzysutcgn5rfn9ad)</br>
-[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper178g3555nt2ks6t7fqrzzt566yrzqfxexcjkjzu)</br>
+[Initia]()<br/>
+[CrossFi](https://testnet.explorer.stakr.space/crossfi)<br/>
+[Mantrachain](https://testnet.explorer.stakr.space/mantrachain)<br/>
+[Soarchain](https://testnet.explorer.stakr.space/soarchain)<br/>
+[0gchain](https://testnet.explorer.stakr.space/0g-evmos)<br/>
+[Amber](https://testnet.explorer.stakr.space/syntropy)<br/>
+[Swisstronik](https://testnet.explorer.stakr.space/swisstronik) - genesis testnet validator </br>
+[Source](https://testnet.explorer.stakr.space/source) - genesis testnet validator </br>
+[Side](https://testnet.explorer.stakr.space/side)<br/>
+[Omniflix](https://testnet.explorer.stakr.space/omniflix) - genesis testnet validator </br>
+[Ojo](https://testnet.explorer.stakr.space/ojo/staking/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
+[Cardchain](https://testnet.explorer.stakr.space/cardchain/staking/ccvaloper178g3555nt2ks6t7fqrzzt566yrzqfxexcjkjzu)</br>
+[Nois](https://testnet.explorer.stakr.space/nois) - genesis testnet validator </br>
+[Humans AI](https://testnet.explorer.stakr.space/humans) - genesis testnet validator </br>
 
 Servers and architecture, technology stack:
 mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
@@ -43,6 +51,12 @@ Inactive mainnet validators: </br>
 [Crescent](https://www.mintscan.io/crescent/validators/crevaloper1w7nqp7d9rvhn8axnvtc0lt64rr4rsqknh9jx5j) - Self-funded validator</br>
 
 50+ finished or developing test-nets: <br />
+Pryzm<br />
+Arkeo<br />
+[Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper18wz8t62mc53vffhew4qfjhpzysutcgn5rfn9ad)</br>
+[Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
+[Namada](https://namada.explorers.guru/validators) - genesis testnet validator</br>
+[Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
 <img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/evmos-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/obol-team-captain.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/beaconchain-prater-validator.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet1.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet2.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sourcechain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/nois-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/empowerchain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/deweb-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sei-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/haqq-testnet.png" width="200" height="150" /></br>
 [Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
 [Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
